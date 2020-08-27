@@ -146,6 +146,7 @@ const styles = StyleSheet.create({
   },
   contentContainer: {
     flex: -1,
+    maxHeight: height - 264,
   },
   contentContainerPadding: {
     paddingHorizontal: 24,
